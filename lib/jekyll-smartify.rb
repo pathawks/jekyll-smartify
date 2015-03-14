@@ -1,7 +1,7 @@
 require 'redcarpet'
 
 module SmartyPants
-  def smartypants(input)
+  def smartify(input)
     Redcarpet::Render::SmartyPants.render(input)
   end
 end
