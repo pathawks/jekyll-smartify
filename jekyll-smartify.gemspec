@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-smartify"
   spec.summary       = "Adds smartify filter to Jekyll."
-  spec.version       = "0.0.2"
+  spec.version       = "0.0.3"
   spec.authors       = ["Pat Hawks"]
   spec.email         = "pat@pathawks.com"
   spec.homepage      = "https://github.com/pathawks/jekyll-smartify"
