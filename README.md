@@ -2,7 +2,9 @@
 
 *SmartyPants filter for Jekyll*
 
-[![Build Status](https://travis-ci.org/pathawks/jekyll-smartify.svg?branch=master)](https://travis-ci.org/pathawks/jekyll-smartify)
+[![Gem Version](https://img.shields.io/gem/v/jekyll-smartify.svg)](https://rubygems.org/gems/jekyll-smartify)
+[![Build Status](https://img.shields.io/travis/pathawks/jekyll-smartify/master.svg)](https://travis-ci.org/pathawks/jekyll-smartify)
+[![Dependency Status](https://img.shields.io/gemnasium/pathawks/jekyll-smartify.svg)](https://gemnasium.com/pathawks/jekyll-smartify)
 
 Make your &quot;quotes&quot; &ldquo;curly&rdquo;
 
