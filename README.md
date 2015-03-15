@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/pathawks/jekyll-smartify.svg?branch=master)](https://travis-ci.org/pathawks/jekyll-smartify)
 
-Make your &quot;quotes&quot; &ldquo;curly&ldquo;
+Make your &quot;quotes&quot; &ldquo;curly&rdquo;
 
 ## Usage
 
