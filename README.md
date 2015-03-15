@@ -1,8 +1,10 @@
-# Jekyll Sitemap Generator Plugin
+# Jekyll Smartify
 
-*Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site*
+*SmartyPants filter for Jekyll*
 
 [![Build Status](https://travis-ci.org/pathawks/jekyll-smartify.svg?branch=master)](https://travis-ci.org/pathawks/jekyll-smartify)
+
+Make your &quot;quotes&quot; &ldquo;curly&ldquo;
 
 ## Usage
 
