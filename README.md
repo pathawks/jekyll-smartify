@@ -8,6 +8,8 @@
 
 Make your &quot;quotes&quot; &ldquo;curly&rdquo;
 
+This plugin will soon be deprecated, as the `smartify` filter is [being added to Jekyll core](https://github.com/jekyll/jekyll/pull/4323)
+
 ## Usage
 
 1. Add `gem 'jekyll-smartify'` to your site's Gemfile and run `bundle`
